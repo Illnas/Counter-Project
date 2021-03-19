@@ -1,0 +1,16 @@
+
+
+
+main {
+    background-color: rgb(252, 177, 177);
+    height: 100vh;
+}
+
+section {
+    background: #fff;
+}
+
+#number {
+    color: #fff;
+    background-color: rgb(7, 7, 7);;
+}
